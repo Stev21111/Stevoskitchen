@@ -70,7 +70,7 @@ aside a:hover { /* Selects aside links when the mouse pointer is over them */
     margin: 10px; /* Add 10px space around the element */
     padding: 10px; /* Add 10px inner spacing so content doesn't touch edges */
     box-sizing: border-box; /* Include padding and border inside the element's width and height calculations */
-    background-color: rgb(255, 181, 132); /* Set a dark slate grey background color */
+    background-color: #785741; /* Set a dark slate grey background color */
     color: #ff8181; /* Set the text color to light grey for contrast against the dark background */
     font-size: 19px; /* Set the font size inside .indexbody to 19 pixels */
     line-height: 1.6; /* Make lines taller for easier reading (1.6 times the font size) */
