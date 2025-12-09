@@ -65,7 +65,7 @@ aside a:hover { /* Selects aside links when the mouse pointer is over them */
   } /* End of rules for section inside media query */
 
   .indexbody { /* Selects elements with class="indexbody" inside this media query */
-    max-width: none; /* Let the browser determine the max width (default behavior) */
+    max-width: auto; /* Let the browser determine the max width (default behavior) */
     align-self: center; /* Center this element along the cross axis inside a flex parent */
     margin: 10px; /* Add 10px space around the element */
     padding: 10px; /* Add 10px inner spacing so content doesn't touch edges */
